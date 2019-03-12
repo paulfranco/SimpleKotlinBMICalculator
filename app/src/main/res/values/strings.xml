@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Simple Kotlin BMI Calculator</string>
+    <string name="app_name">BMI</string>
+    <string name="weight_text">Weight in pounds</string>
+    <string name="height_text">Height in inch </string>
+    <string name="button_text_view">calculate</string>
+    <string name="todo">TODO</string>
 </resources>
